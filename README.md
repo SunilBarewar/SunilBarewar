@@ -34,7 +34,7 @@ AWS (EC2, S3, SQS, Lambda, API Gateway) · GitHub Actions · Git · GitHub
 - Led the migration from OVH Cloud to Microsoft Azure, boosting scalability & reliability.
 - Developed a referral system boosting sign-ups by 10% in 3 months.
 - Revamped task page UI/UX, improving load time by 45% and user retention by 60%.
-- Created a dynamic layout system and portfolio generator at [Snapit.tech](https://www.sharpener.tech).
+- Created a dynamic layout system and portfolio generator at [Snapit.tech](https://www.snapit.tech).
 - Managed test servers, performed code reviews, and improved feature reliability.
 
 ### 🔹 Software Development Intern @ Sharpener (Remote)  
