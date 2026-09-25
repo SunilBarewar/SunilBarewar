@@ -2,7 +2,7 @@
 
 🚀 Passionate Software Developer | 🧠 Gen AI Enthusiast | 🌐 Full Stack Engineer  
 📍 Maharashtra, India  
-📫 [sunilvbarewar@gmail.com](mailto:sunilvbarewar@gmail.com)
+📫 [dev.sunilbarewar@gmail.com](mailto:dev.sunilbarewar@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/sunil-barewar) 
 
 ---
