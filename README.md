@@ -25,14 +25,24 @@ AWS (EC2, S3, SQS, Lambda, API Gateway) · GitHub Actions · Git · GitHub
 
 ## 💼 Experience
 
+### 🔹 Full Stack Engineer @ Byldd (Remote)  
+**August 2025 – Present**
+
+- Contributed to the **Virtual Concierge** module to coordinate **AI-assisted** end-to-end event planning and booking between hosts and venues via email and in-app messaging.
+- Built an AI chat system with **Retrieval-Augmented Generation (RAG)** and real-time streaming, enabling context-aware document interactions with highly responsive performance.
+- Contributed to the inbound email pipeline using **SES, SNS, and Lambda**, orchestrating **5+ AI agents** in a structured pipeline to parse, analyze, and respond to venue emails with human escalation when needed.
+- Developed end-to-end payment pipelines using **Stripe Connect & Checkout**, automating complex marketplace splits, platform fees, and refund processing.
+- Designed and developed the company-wide **Backend and Frontend Boilerplate**, defining architectural patterns and best practices adopted across new client projects, reducing development time by **15%**.
+- Deployed and managed project infrastructure on **AWS**, including **ECS, S3, Lambda, and EC2**.
+
+
 ### 🔹 Software Development Engineer @ Sharpener (Bangalore)  
-**June 2022 – Present**
+**June 2024 – July 2025**
 
 - Reduced API response time by 90% through database indexing, saving $600/month in server costs.
 - Built a scalable system with AWS Lambda, API Gateway & SQS handling 9,000+ requests/sec.
 - Created an AI-powered Code Assistant to assist users in resolving code issues.
 - Led the migration from OVH Cloud to Microsoft Azure, boosting scalability & reliability.
-- Developed a referral system boosting sign-ups by 10% in 3 months.
 - Revamped task page UI/UX, improving load time by 45% and user retention by 60%.
 - Created a dynamic layout system and portfolio generator at [Snapit.tech](https://www.snapit.tech).
 - Managed test servers, performed code reviews, and improved feature reliability.
